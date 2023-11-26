@@ -1,0 +1,199 @@
+kwxmc
+xcgcg
+ggckk
+mcmxg
+xxbmc
+Level: 0, (1,4), Power Level: 0, Mario warped. Lives: 3, coins: 0, next direction: UP, current move: 1
+mwxxx
+ccbgk
+mxcgk
+cgckg
+mmgcm
+Level: 1, (1,0), Power Level: 0, Mario collected a coin. Lives: 3, coins: 1, next direction: UP, current move: 2
+mxxxx
+chbgk
+mxcgk
+cgckg
+mmgcm
+Level: 1, (1,1), Power Level: 0, Lives: 3, coins: 1, next direction: DOWN, current move: 3
+mxxxx
+cxbgk
+mxcgk
+cgckg
+mmgcm
+Level: 1, (1,0), Power Level: 0, Mario ate a mushroom. Lives: 3, coins: 1, next direction: LEFT, current move: 4
+hxxxx
+cxbgk
+mxcgk
+cgckg
+mmgcm
+Level: 1, (0,0), Power Level: 1, Mario ate a mushroom. Lives: 3, coins: 1, next direction: DOWN, current move: 5
+xxxxx
+cxbgk
+mxcgk
+cgckg
+hmgcm
+Level: 1, (0,4), Power Level: 2, Lives: 3, coins: 1, next direction: UP, current move: 6
+xxxxx
+cxbgk
+mxcgk
+cgckg
+xmgcm
+Level: 1, (0,0), Power Level: 2, Lives: 3, coins: 1, next direction: RIGHT, current move: 7
+xxxxx
+cxbgk
+mxcgk
+cgckg
+xmgcm
+Level: 1, (1,0), Power Level: 2, Lives: 3, coins: 1, next direction: RIGHT, current move: 8
+xxxxx
+cxbgk
+mxcgk
+cgckg
+xmgcm
+Level: 1, (2,0), Power Level: 2, Lives: 3, coins: 1, next direction: RIGHT, current move: 9
+xxxxx
+cxbgk
+mxcgk
+cgckg
+xmgcm
+Level: 1, (3,0), Power Level: 2, Mario fought a goomba and lost. Lives: 3, coins: 1, next direction: UP, current move: 10
+xxxxx
+cxbgk
+mxcgk
+cgckg
+xmgcm
+Level: 1, (3,1), Power Level: 1, Lives: 3, coins: 1, next direction: DOWN, current move: 11
+xxxxx
+cxbxk
+mxcgk
+cgckg
+xmgcm
+Level: 1, (3,0), Power Level: 1, Lives: 3, coins: 1, next direction: LEFT, current move: 12
+xxxxx
+cxbxk
+mxcgk
+cgckg
+xmgcm
+Level: 1, (2,0), Power Level: 1, Lives: 3, coins: 1, next direction: LEFT, current move: 13
+xxxxx
+cxbxk
+mxcgk
+cgckg
+xmgcm
+Level: 1, (1,0), Power Level: 1, Lives: 3, coins: 1, next direction: UP, current move: 14
+xxxxx
+cxbxk
+mxcgk
+cgckg
+xmgcm
+Level: 1, (1,1), Power Level: 1, Mario fought the boss and lost. Mario fought the boss and won. Lives: 2, coins: 1, next direction: RIGHT, current move: 16
+cggwk
+kmxcg
+cxxxb
+ccgxk
+mmmcc
+Level: 2, (2,1), Power Level: 1, Mario ate a mushroom. Lives: 2, coins: 1, next direction: LEFT, current move: 17
+cggwk
+khxcg
+cxxxb
+ccgxk
+mmmcc
+Level: 2, (1,1), Power Level: 2, Lives: 2, coins: 1, next direction: RIGHT, current move: 18
+cggwk
+kxxcg
+cxxxb
+ccgxk
+mmmcc
+Level: 2, (2,1), Power Level: 2, Lives: 2, coins: 1, next direction: UP, current move: 19
+cggwk
+kxxcg
+cxxxb
+ccgxk
+mmmcc
+Level: 2, (2,2), Power Level: 2, Lives: 2, coins: 1, next direction: RIGHT, current move: 20
+cggwk
+kxxcg
+cxxxb
+ccgxk
+mmmcc
+Level: 2, (3,2), Power Level: 2, Mario fought the boss and won. Lives: 2, coins: 1, next direction: RIGHT, current move: 21
+mbwkk
+cgmgk
+mmxgc
+ccxxg
+cxcmx
+Level: 3, (4,2), Power Level: 2, Mario fought a goomba and won. Lives: 2, coins: 1, next direction: UP, current move: 22
+mbwkk
+cgmgk
+mmxgx
+ccxxh
+cxcmx
+Level: 3, (4,3), Power Level: 2, Lives: 2, coins: 1, next direction: UP, current move: 23
+mbwkk
+cgmgk
+mmxgx
+ccxxx
+cxcmx
+Level: 3, (4,4), Power Level: 2, Mario collected a coin. Lives: 2, coins: 2, next direction: RIGHT, current move: 24
+mbwkk
+cgmgk
+mmxgx
+ccxxx
+hxcmx
+Level: 3, (0,4), Power Level: 2, Mario ate a mushroom. Lives: 2, coins: 2, next direction: UP, current move: 25
+hbwkk
+cgmgk
+mmxgx
+ccxxx
+xxcmx
+Level: 3, (0,0), Power Level: 2, Mario fought the boss and won. Lives: 2, coins: 2, next direction: RIGHT, current move: 26
+kmxbc
+kcgmc
+mmmxx
+xxkcc
+gccgg
+Level: 4, (1,0), Power Level: 2, Mario collected a coin. Lives: 2, coins: 3, next direction: UP, current move: 27
+kxxbc
+khgmc
+mmmxx
+xxkcc
+gccgg
+Level: 4, (1,1), Power Level: 2, Lives: 2, coins: 3, next direction: DOWN, current move: 28
+kxxbc
+kxgmc
+mmmxx
+xxkcc
+gccgg
+Level: 4, (1,0), Power Level: 2, Mario fought a koopa and lost. Lives: 2, coins: 3, next direction: LEFT, current move: 29
+kxxbc
+kxgmc
+mmmxx
+xxkcc
+gccgg
+Level: 4, (0,0), Power Level: 1, Mario fought a koopa and won. Lives: 2, coins: 3, next direction: UP, current move: 30
+xxxbc
+hxgmc
+mmmxx
+xxkcc
+gccgg
+Level: 4, (0,1), Power Level: 1, Lives: 2, coins: 3, next direction: RIGHT, current move: 31
+xxxbc
+xxgmc
+mmmxx
+xxkcc
+gccgg
+Level: 4, (1,1), Power Level: 1, Mario fought a goomba and won. Lives: 2, coins: 3, next direction: RIGHT, current move: 32
+xxxbc
+xxhmc
+mmmxx
+xxkcc
+gccgg
+Level: 4, (2,1), Power Level: 1, Mario ate a mushroom. Lives: 2, coins: 3, next direction: RIGHT, current move: 33
+xxxbc
+xxxhc
+mmmxx
+xxkcc
+gccgg
+Level: 4, (3,1), Power Level: 2, Mario fought the boss and won. Lives: 3, coins: 3, next direction: DOWN, current move: 34
+Mario won in 34 moves.
